@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=ARqyWaZqn68
+
 Practical Example for Use Apache Kafka In .NET Application, the demo for  Kafka installation in .Net core and you can build Real-time Streaming Applications Using .NET Core c# and Kafka. 
 
 Github link for Kafka practical example in .Net core 
